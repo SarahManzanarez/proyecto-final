@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Gatito Feliz",
+    "subtitle": "Un pequeño gato adorable",
+    "image": "https://placekitten.com/400/300",
+    "description": "Este gatito ama jugar y dormir en el sol."
+  },
+  {
+    "id": 2,
+    "title": "Perrito Juguetón",
+    "subtitle": "Le encanta correr y morder calcetines",
+    "image": "https://place-puppy.com/400x300",
+    "description": "Perrito muy activo, ideal para paseos largos."
+  }
+]
